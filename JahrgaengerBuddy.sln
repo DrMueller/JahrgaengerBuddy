@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmu.JahrgaengerBuddy.WpfUI", "Sources\Application\WpfUI\Mmu.JahrgaengerBuddy.WpfUI.csproj", "{DC9CB3C3-4440-4F07-8F38-4F531B29C7F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmu.JahrgaengerBuddy.Shell", "Sources\Application\Shell\Mmu.JahrgaengerBuddy.Shell.csproj", "{6CA8D4CB-C459-4CF4-A4AB-EB68307A459B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmu.JahrgaengerBuddy.Domain", "Sources\Application\Domain\Mmu.JahrgaengerBuddy.Domain.csproj", "{AEFDE2E9-05FF-4F1E-8EC7-69AAA10BFF95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmu.JahrgaengerBuddy.Application", "Sources\Application\Application\Mmu.JahrgaengerBuddy.Application.csproj", "{DFAF4ED0-05F4-4DB8-9A04-1728AF0D25F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mmu.JahrgaengerBuddy.DependenciesHack", "Sources\Application\DependenciesHack\mmu.JahrgaengerBuddy.DependenciesHack.csproj", "{946812AF-C83A-47A3-8403-D06DC52A8037}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmu.JahrgaengerBuddy.Common", "Sources\Application\Common\Mmu.JahrgaengerBuddy.Common.csproj", "{2DB94B4C-3885-472B-A915-5ADFB1895A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9CB3C3-4440-4F07-8F38-4F531B29C7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9CB3C3-4440-4F07-8F38-4F531B29C7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9CB3C3-4440-4F07-8F38-4F531B29C7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9CB3C3-4440-4F07-8F38-4F531B29C7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA8D4CB-C459-4CF4-A4AB-EB68307A459B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA8D4CB-C459-4CF4-A4AB-EB68307A459B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA8D4CB-C459-4CF4-A4AB-EB68307A459B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA8D4CB-C459-4CF4-A4AB-EB68307A459B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFDE2E9-05FF-4F1E-8EC7-69AAA10BFF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFDE2E9-05FF-4F1E-8EC7-69AAA10BFF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFDE2E9-05FF-4F1E-8EC7-69AAA10BFF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFDE2E9-05FF-4F1E-8EC7-69AAA10BFF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAF4ED0-05F4-4DB8-9A04-1728AF0D25F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAF4ED0-05F4-4DB8-9A04-1728AF0D25F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAF4ED0-05F4-4DB8-9A04-1728AF0D25F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAF4ED0-05F4-4DB8-9A04-1728AF0D25F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946812AF-C83A-47A3-8403-D06DC52A8037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946812AF-C83A-47A3-8403-D06DC52A8037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946812AF-C83A-47A3-8403-D06DC52A8037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946812AF-C83A-47A3-8403-D06DC52A8037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB94B4C-3885-472B-A915-5ADFB1895A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB94B4C-3885-472B-A915-5ADFB1895A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB94B4C-3885-472B-A915-5ADFB1895A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB94B4C-3885-472B-A915-5ADFB1895A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {451AF291-DC73-441B-B767-F2C106014ABD}
+	EndGlobalSection
+EndGlobal
